@@ -1,0 +1,38 @@
+.parent{
+    background: gold;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.parent div{
+    padding: 10px;
+    margin: 10px;
+}
+
+.item{
+    color: rgb(255, 0, 179);
+}
+
+.item1{
+    background: green;
+  
+}
+
+
+.item2{
+    background: lightsalmon;
+}
+
+.item3{
+    background: lightblue;
+}
+
+.item4{
+    background: rgb(238, 130, 179);
+}
+
+.item5{
+    background: rgba(0, 255, 89, 0.613);
+}
+
